@@ -13,8 +13,33 @@
   * Only after there is a location and name the user will ba able to start the game and the UI will be updated according to the side.
   * BONUS: The UI is supported landscape and portreit modes.
 
+![WhatsApp Image 2024-07-12 at 15 30 26_5ecc010e](https://github.com/user-attachments/assets/a686cac3-f5f8-43c0-9251-e53c4cad2f4e)
 
-![WhatsApp Image 2024-07-12 at 15 30 26_5ecc010e](https://github.com/user-attachments/assets/bb88038b-ad74-45aa-809a-51484d52431f)  ![WhatsApp Image 2024-07-12 at 15 30 27_7afada32](https://github.com/user-attachments/assets/77e0ac40-f3c0-4427-8202-63e4c46c64c6)  ![WhatsApp Image 2024-07-12 at 15 30 27_ae31d1c6](https://github.com/user-attachments/assets/d7a655bd-2cb3-412e-9bc3-e253bb4bf7cc)  ![WhatsApp Image 2024-07-12 at 15 30 27_7ff903c0](https://github.com/user-attachments/assets/02e17524-d6cc-48cb-b6e9-12aed29b7b32)  ![WhatsApp Image 2024-07-12 at 15 31 20_08920da9](https://github.com/user-attachments/assets/32cbd5a7-9476-4954-8ee9-da40311ab6db)
+![WhatsApp Image 2024-07-12 at 15 30 27_7afada32](https://github.com/user-attachments/assets/c57f0b67-c275-446f-b91e-f818ecb906ec)
+
+![WhatsApp Image 2024-07-12 at 15 30 27_ae31d1c6](https://github.com/user-attachments/assets/0bed78e1-9e8e-4acf-9ab5-878058124708)
+
+![WhatsApp Image 2024-07-12 at 15 30 27_ae31d1c6](https://github.com/user-attachments/assets/258b0181-63f5-4ba6-b7a7-71c4fc5e8ec8)
+
+![WhatsApp Image 2024-07-12 at 15 30 27_7ff903c0](https://github.com/user-attachments/assets/54f79aca-b42e-4058-99e5-fb1c1b0d6fa9)
+
+![WhatsApp Image 2024-07-12 at 15 31 20_08920da9](https://github.com/user-attachments/assets/16754dcb-f52d-4564-87f1-ce532fb46a3f)
+
+* There is two players, the side of the player will be according to the device location.
+* Every five seconds the two cards are turned over and show a different image - the cards are shown for 3 seconds and are turned over again and God forbid until the pack runs out.
+* When the game is over we will work on the next page.
+
+![WhatsApp Image 2024-07-12 at 15 30 28_7d17032e](https://github.com/user-attachments/assets/37d1f237-3772-432d-9c87-6566fc32d399)
+
+![WhatsApp Image 2024-07-12 at 15 30 28_a0451eb7](https://github.com/user-attachments/assets/c417ef45-9269-4dba-a24d-2c49093b2887)
+
+* The summary page will show the name of the winner, his score and a button back to the login screen.
+
+![WhatsApp Image 2024-07-12 at 15 30 28_e1c17f21](https://github.com/user-attachments/assets/f0313ad6-aacd-4bb5-9b1d-09db5365d48d)
+
+![WhatsApp Image 2024-07-12 at 15 30 27_fbe8a548](https://github.com/user-attachments/assets/62490e15-38be-4851-873e-e6f0c4f6c23a)
+
+
 
  
  
