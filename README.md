@@ -19,8 +19,6 @@
 
 ![WhatsApp Image 2024-07-12 at 15 30 27_ae31d1c6](https://github.com/user-attachments/assets/0bed78e1-9e8e-4acf-9ab5-878058124708)
 
-![WhatsApp Image 2024-07-12 at 15 30 27_ae31d1c6](https://github.com/user-attachments/assets/258b0181-63f5-4ba6-b7a7-71c4fc5e8ec8)
-
 ![WhatsApp Image 2024-07-12 at 15 30 27_7ff903c0](https://github.com/user-attachments/assets/54f79aca-b42e-4058-99e5-fb1c1b0d6fa9)
 
 ![WhatsApp Image 2024-07-12 at 15 31 20_08920da9](https://github.com/user-attachments/assets/16754dcb-f52d-4564-87f1-ce532fb46a3f)
@@ -39,57 +37,22 @@
 
 ![WhatsApp Image 2024-07-12 at 15 30 27_fbe8a548](https://github.com/user-attachments/assets/62490e15-38be-4851-873e-e6f0c4f6c23a)
 
-
-
- 
- 
-
-
-    
-
 ### Subject That This Project Deal With:
-  * Activity Lifecycle.
   * TextViews.
   * ImageViews.
-  * ImageViews.
-  * RelativeLayout.
-  * LinearLayout.
-  * Material.
-  * Resource Files - Strings, dimens, colors.
   * Buttons.
-  * Data Models – builder Design Pattern.
   * JavaBeans.
   * Business Logic - Encapsulation, Code Layering.
-  * Multiple activities.
-  * Manifest.
-  * Intents.
-  * Passing data between Activities.
-  * Gradle - Libraries implementations.
-  * Glide - Loading External Source Images.
-  * Vibrations.
-  * LinearLayout - Layout Weights.
-  * Toasts.
-  * FAB - Floating Action Button.
-  * Timers - Handler + Runnable, Timer + TimerTask, CountDownTimer, WorkManager.
-  * SharedPreferences.
-  * Singleton DP.
-  * Signal Manager.
-  * Gson + Json.
-  * Fragments.
+  * Multiple controllers.
+  * Passing data between controllers.
+  * Alert messages.
+  * Timers.
+  * UserDefaults.
   * Callbacks.
-  * Icons.
-  * Sensors.
-  * Sounds.
-  * RecyclerView, RecyclerView Adapter, RecyclerView ViewHolder.
-  * Callbacks.
-  * Splash Screen.
-  * Animations.
-  * Lottie Animations.
   * Constraint Layout.
-  * Design and Default/Night Mode.
 
 ### Video Example:
+
     
-[my_game_vid.zip](https://github.com/ShaiNachum/avoid_the_obsticle_game_part2/files/14466150/my_game_vid.zip)
 
 
