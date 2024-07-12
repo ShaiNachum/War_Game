@@ -53,11 +53,3 @@
 
 ### Video Example:
 [Simulator Screen Recording - iPhone 14 Pro - 2024-07-12 at 16.07.29.mp4.zip](https://github.com/user-attachments/files/16194475/Simulator.Screen.Recording.-.iPhone.14.Pro.-.2024-07-12.at.16.07.29.mp4.zip)
-
-
-https://github.com/user-attachments/assets/74ef4933-b5d7-4ad4-a01e-8b2d3b715648
-
-
-    
-
-
